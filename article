@@ -1,0 +1,71 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{graphicx}
+\usepackage[table,xcdraw]{xcolor}
+\title{learning latex}
+\author{Sindhu}
+\date{21 sep 22}
+\begin{document}
+ \maketitle
+ \tableofcontents
+ \section{intro}
+ eey892ye2378rt
+ \subsection{something}
+   iu37te3e913-e8
+   \subsubsection{to learn}
+   eu3ye73te787t1et8
+\section{myself}
+   \paragraph{wje1e1tryr420ur042ur2uryr09ur-91ri-139u13iohryior06}
+   \subparagraph{jweg32yre82ro42hriu43t5784}
+   
+   kjgf5erty909876543wert-0tretyuiop[]poiuy43-0piuytre78909\\
+   
+   \begin{tiny}
+    Welcome 
+   \end{tiny}\\
+   \begin{small}
+    Welcome
+    Welcome
+   \end{small}\\
+   \begin{large}
+   \end{large}\\
+   \textit{Welcome}\\
+\textbf{Welcome}\\
+\textsc{Welcome}\\
+\texttt{Welcome}\\
+\underline{Welcome}\\
+{\color{red}{Wel}}\\
+{\color{black}{Wel}}\\
+\small{Welcome}
+\huge{Welcome}
+\section{Table rep}
+ \begin{table}[h]
+   \centering
+   \caption{Table}
+   \begin{tabular}{|l |l |l |}
+     \hline
+      S.no & sub1 & sub2\\
+     \hline
+     1. & math & it\\
+     \hline
+   \end{tabular}
+
+ \end{table}
+ \begin{itemize}
+  \item First elements
+  \item Second elements
+ \end{itemize}
+ \begin{enumerate}
+  \item Third elemnts
+ \end{enumerate}
+ \begin{figure}
+  \centering
+  \includegraphics[scale=0.5]{my.png}
+  \caption{my}
+  \end{figure}
+  \section{math}
+    $(\frac{a}{b})^2=\frac({a}^2{b}^2)$
+  \end{document}
+
